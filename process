@@ -1,0 +1,54 @@
+#!/usr/bin/env ruby
+
+# 
+# Convert leading markdown chunk into html and insert
+# into the page.
+#
+
+require 'rubygems'
+require 'rdiscount'
+require 'json'
+
+new_buffer = []
+buffer = []
+article = ''
+capture = false
+visited = false
+timestamp = Time.now.to_i
+
+while line = gets
+  # puts line
+  if line =~ /^---/ && !visited
+    capture = true
+    visited = true
+  elsif line =~ /^---/ && visited
+    capture = false
+  elsif capture
+    buffer << line
+  else
+    # puts "cap:   #{ line }"
+    new_buffer << line
+  end
+end
+
+new_buffer = new_buffer.join
+new_buffer.gsub! /\$timestamp/, timestamp.to_s
+
+article = RDiscount.new(buffer.join).to_html
+new_buffer.gsub! /\$article/, article
+
+# puts new_buffer
+
+html = File.open('work-final.html', 'w')
+html.print(new_buffer)
+
+json = {
+  :stamp => Time.now.to_i,
+  :content => article
+}
+jfile = File.open('work-final.json', 'w')
+jfile.print(JSON.dump(json))
+
+html.close
+jfile.close
+  
