@@ -1,8 +1,8 @@
 ---
-# the makers' workshop
+# the makers' society
 
-Life is [too damn short](http://www.ulmanfund.org/) to wait to do
-awesome things.
+Life is [too damn short](http://www.ulmanfund.org/) to wait to do awesome
+things.
 
 ### IT IS TIME
 
@@ -21,7 +21,8 @@ I wish I had the time to do.
 
 ### I WANT TO CREATE.
 
-If I have time to consume, I have time to create.
+<span class='highlight'>If I have time to consume, I have time to
+create.</span>
 
 ## This is what's next, and I'm inviting you to join me.
 
@@ -35,9 +36,11 @@ I want to share my ideas in writing and in software so that they can be
 challenged, not just blindly celebrated or ignored. I want to grapple with
 ideas actively, not passively.
 
-It starts with each of us intentionally following our own interests.
+It starts with each of us intentionally following our own interests. From
+there we have something to show, so we show it to anyone who'll sit still.
+After that we make something else.
 
-## Rules for the makers' workshop
+## Rules for the makers' society
 
 <div class='quiet'>
 Read these as rules I'm inventing for myself to follow. Pick and choose
@@ -45,19 +48,19 @@ your own if any interest you or just ignore everything and keep doing your
 own thing. This is an invitation, not a mandate.
 </div>
 
-&raquo; **Something new every time.**
+<span class='rule'>Something new every time.</span>
 
 Through code and hardware, I want to create things that don't already exist
 just because I want to see them. I want to learn enough to build things I
 couldn't have even conceived of before.
 
-&raquo; **Don't regret what you miss.**
+<span class='rule'>Don't regret what you miss.</span>
 
 This is not a race. Go back and look closer at the interesting things you find
 along the way.
 
-&raquo; **Embrace constraint and the place where you are. You will not be
-perfect.**
+<span class='rule'>Embrace constraint and the place where you are. You will not be
+perfect.</span>
 
 What I don't know, I'll learn.  What doesn't exist, I'll create. What I don't
 own I'll find, make, or purchase.
@@ -65,16 +68,16 @@ own I'll find, make, or purchase.
 Never compare your own talent, time, and interests to another person for the
 purpose of determining your worth.
 
-&raquo; **Show someone else how to do what you know how to do.**
+<span class='rule'>Show someone else how to do what you know how to do.</span>
 
 Ask questions, be inquisitive. Exercise your right to understand the world.
 
-&raquo; **Learn from your success. Doing is success.**
+<span class='rule'>Learn from your success. Doing is success.</span>
 
-&raquo; **Learn from others.**
+<span class='rule'>Learn from others.</span>
 
-&raquo; **Learn the hell out of your tools (software and hardware) so you can
-make better tools.**
+<span class='rule'>Learn the hell out of your tools (software and hardware) so you can
+make better tools.</span>
 
 My tools include: Processing, vim, ruby, libcinder, openFrameworks, node.js,
 HTML5, arduino, puredata, supercollider, c, python, javascript, java, c++,
@@ -84,10 +87,17 @@ pencil, paper, tape, scissors, and anything else that I need.
 Remember that **Learn** is another word for **Explore** if you're willing to
 remember what you find.
 
-&raquo; **Enjoy what you make.**
+> In a society which emphasizes teaching, children and students -- and adults
+> -- become passive and unable to think or act for themselves. Creative, active
+> individuals can only grow up in a society that emphasizes learning instead of
+> teaching.
 
-&raquo; **Follow your interests, not someone else's interests and not the
-interests you think other people think you should have.**
+Christopher Alexander, *A Pattern Language*
+
+<span class='rule'>Enjoy what you make.</span>
+
+<span class='rule'>Follow your interests, not someone else's interests and not the
+interests you think other people think you should have.</span>
 
 Work with others in collaboration, but don't feel obligated to follow their
 path in your work.
@@ -99,11 +109,11 @@ path in your work.
 
 from ["Self-Reliance"](http://www.vcu.edu/engweb/transcendentalism/authors/emerson/essays/selfreliance.html)
 
-&raquo; **Offer and accept help, but never rely on others to make your work
-great.**
+<span class='rule'>Offer and accept help, but never rely on others to make your work
+great.</span>
 
-&raquo; **Never believe you won't ever be able to do what you just saw someone
-else do. Figure out how they did it, then do it.**
+<span class='rule'>Never believe you won't ever be able to do what you just saw someone
+else do. Figure out how they did it, then do it.</span>
 
 - - - - -
 
@@ -130,7 +140,7 @@ presentation of the things we make.
 The first meeting is **Thursday, October 27 at 8:00 PM** at the [Baltimore
 Node's space](http://baltimorenode.org), **120 W. North Ave, Baltimore MD.**
 Location and date are fluid depending on who is interested and when they can
-make it.
+make it. The point isn't the meeting, it's the doing.
 
 ### who am I?
 
@@ -141,12 +151,9 @@ and [github](http://github.com/abachman). I make things with code and I want to
 do more of that, better. I'm also a huge fan of my family, who is awesome, and
 coffee, which is great.
 
-[Send me a note](mailto:adam.bachman@gmail.com) if you want to talk more about
-this or grab coffee or something. Seriously, I drink coffee every day.
-
-If you're interested, let me know. Get in touch via
-[Email](mailto:adam.bachman@gmail.com) or
-[Twitter](http://twitter.com/abachman).
+[Send me a note](mailto:adam.bachman@gmail.com) or get in touch on
+[Twitter](http://twitter.com/abachman) if you want to talk more about this
+or grab coffee or something. Seriously, I drink coffee every day.
 
 ### inspirations
 
@@ -156,13 +163,18 @@ Here's a very short incomplete list of inspirations:
 * [Self-Reliance](http://www.vcu.edu/engweb/transcendentalism/authors/emerson/essays/selfreliance.html) (essay)
 * [Gray Area Foundation for the Arts](http://www.gaffta.org/) (organization)
 * [tinkering school](http://www.tinkeringschool.com/) (doesn't have to be for just kids)
-* [the MIT media lab](http://www.media.mit.edu/)
-* [the eyeo festival](http://eyeofestival.com)
+* [the MIT media lab](http://www.media.mit.edu/) (school)
+* [the eyeo festival](http://eyeofestival.com) (event)
+* [ITP](http://itp.nyu.edu/itp/) (school)
+* [the Studio for Creative Inquiry](http://studioforcreativeinquiry.org/) (school)
 * [my creative spaces list](https://docs.google.com/document/pub?id=1hO388XzP2e0LcUb0QT4qRNnEB8YATXXpbh0BvKQoAD8)
 
-If I had $250,000 I'd lease a building and start a gallery and school. If I had
-$25,000,000 I'd build a bridge between JHU and MICA and open a Media Lab in the
-middle.
+It's sad that so many of those interesting spaces are controlled by
+schools.
+
+If I had $250,000 I'd lease a building and start a gallery and workshop. If
+I had $25,000,000 I'd build a bridge between JHU and MICA and open a Media
+Lab in the middle.
 
 This comes before that.
 ---
@@ -170,7 +182,7 @@ This comes before that.
 <!doctype html>
 <html>
   <head>
-    <title>the makers' workshop</title>
+    <title>the makers' society</title>
 
     <link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
     <style>
@@ -178,30 +190,47 @@ This comes before that.
         background: #1e1e1e;
         margin: 0; padding: 0;
         color: #222;
+        font-size: 14px;
       }
       a, a:visited { color: #369; }
       a:hover { color: #69c; }
       h1, h2, h3 {
         font-family: 'Varela', sans-serif;
         color: #000; }
-      h1 {
-        font-size: 38px;
-      }
-      h2, h3 { font-weight: 400; }
+      h1 { font-size: 38px; }
       h2 { font-size: 24px; }
-      h2, h3 { margin: 28px 0 18px 0; }
+      h3 { font-size: 18px; }
+      h2, h3 { font-weight: 400; }
+      h2, h3 { margin: 38px 0 16px 0; }
       .container {
         background: #fff;
         margin: 0 auto;
         padding: 20px 70px;
         width: 600px;
         font-family: georgia, serif;
+        font-family: "Lucida Grande", "Lucida Sans", sans;
         line-height: 1.6em;
       }
-      .container p, li, ol, ul { font-size: 15px; }
-      blockquote { border-left: 2px solid #444; margin-left: 0px; 
+      .container p { margin: 16px 0; }
+      blockquote { border-left: 2px solid #888; margin-left: 0px;
                    padding-left: 24px; color: #444; font-style: italic; }
-      .quiet { padding: 4px 16px; font-style: italic; color: #777; }
+      .quiet { padding: 4px 16px;
+        font-style: italic; color: #777;
+        font-size:13px; }
+      .highlight {
+        color: #000;
+        background: #D2F9FF;
+        display: inline-block;
+        padding: 4px; margin: -4px;
+      }
+
+      .rule {
+        color: #000;
+        background: #D2F9FF;
+        display: inline-block;
+        padding: 4px; margin: -4px;
+        font-weight: bold;
+      }
     </style>
   </head>
 <body>
@@ -214,33 +243,14 @@ This comes before that.
     </div>
   </div>
 
-  <script type="text/javascript"> 
+  <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script> 
-  <script type="text/javascript"> 
+  </script>
+  <script type="text/javascript">
     var pageTracker = _gat._getTracker("UA-3540787-1");
     pageTracker._initData();
     pageTracker._trackPageview();
-  </script>
-
-
-  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js'></script>
-  <script>
-    var STAMP=$timestamp;
-    var check_and_update = function () {
-      $.getJSON('/work-draft.json', function (data) {
-        if (data && data.stamp > STAMP) {
-          if (data.content != $('#article').html()) {
-            console.log('updating...');
-            $('#article').html(data.content);
-          }
-        }
-      });
-    }
-    if (!/adambachman/.test(window.location.href)) {
-      setInterval(check_and_update, 8000);
-    }
   </script>
 </body>
 </html>

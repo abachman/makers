@@ -1,5 +1,6 @@
 watch( 'work.template' )  {
   # also makes a handy git post-commit hook
+  puts 'convert'
   system "cat work.template | ruby process"
   # you have to write your own upload script if this interests you
   system "[ -f upload ] && bash upload"
