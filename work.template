@@ -4,6 +4,24 @@
 Life is [too damn short](http://www.ulmanfund.org/) to wait to do awesome
 things.
 
+## Next Meeting
+
+<div class='announcement'>
+<p>
+<strong>When</strong>: Thursday, November 17, 8:00 PM.
+</p>
+<p>
+<strong>Where</strong>: At <a href='http://baltimorenode.org'>the Baltimore Node</a>,
+<a href='http://g.co/maps/3z7nq'>120 W. North Ave</a>. Parking is available on
+the street or in the parking lot behind the building on Howard.
+</p>
+<p>
+<strong>What</strong>: Bring a project to work on or just come with an open mind. We'll start with a
+quick once around the room to answer the two most important questions: <em>Who are
+you?</em> and <em>What are you working on?</em> After that we'll get to work.
+</p>
+</div>
+
 ### IT IS TIME
 
 ... for an art and creativity focused, technology oriented, forward leaning
@@ -39,6 +57,8 @@ ideas actively, not passively.
 It starts with each of us intentionally following our own interests. From
 there we have something to show, so we show it to anyone who'll sit still.
 After that we make something else.
+
+<span id='rules'></span>
 
 ## Rules for the makers' society
 
@@ -230,6 +250,14 @@ This comes before that.
         display: inline-block;
         padding: 4px; margin: -4px;
         font-weight: bold;
+      }
+
+      .announcement {
+        border: 1px solid #aaa;
+        background-color: #efefef;
+        font-color: #000;
+        padding: 8px;
+        margin-left: -8px;
       }
     </style>
   </head>

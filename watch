@@ -3,6 +3,6 @@ watch( 'work.template' )  {
   puts 'convert'
   system "cat work.template | ruby process"
   # you have to write your own upload script if this interests you
-  system "[ -f upload ] && bash upload"
+  # system "[ -f upload ] && bash upload"
 }
 
